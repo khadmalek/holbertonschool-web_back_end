@@ -1,1 +1,0 @@
-This project includes a set of basic tasks and scripts to help you understand and work with ES6 features. 
