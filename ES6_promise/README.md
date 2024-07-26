@@ -1,0 +1,1 @@
+ES6 promises allow for cleaner and more readable handling of asynchronous operations. This chapter covers the creation and usage of promises through practical examples.
